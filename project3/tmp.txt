@@ -1,0 +1,25 @@
+Grading started
+case 1 Test with parameters: 0.6 -2.0 2.0 79 79
+Takes 0.328782  seconds to execute.
+Output correct image. Also it is fast enough. Average delta is 0.000000
+case 2 Test with parameters: 0.2 -4.0 4.0 421 411
+Takes 0.250097  seconds to execute.
+Output correct image. Also it is fast enough. Average delta is 0.000000
+case 3 Test with parameters: 0.4 -1.0 1.0 999 791
+Takes 1.282280  seconds to execute.
+Output correct image. Also it is fast enough. Average delta is 0.000000
+case 4 Test with parameters: 0.8 -3.0 3.0 1601 799
+Takes 0.941091  seconds to execute.
+Output correct image. Also it is fast enough. Average delta is 0.000000
+case 5 Test with parameters: 0.8 -3.0 3.0 701 601
+Takes 0.328501  seconds to execute.
+Output correct image. Also it is fast enough. Average delta is 0.000000
+case 6 Test with parameters: 0.8 -3.0 3.0 801 789
+Takes 0.213831  seconds to execute.
+Output correct image. Also it is fast enough. Average delta is 0.000000
+case 7 Test with parameters: 0.5 -1.0 1.0 741 1201
+Takes 0.480912  seconds to execute.
+Output correct image. Also it is fast enough. Average delta is 0.000000
+case 8 Test with parameters: 0.4 -1.0 1.0 1921 611
+Takes 0.946432  seconds to execute.
+Output correct image. Also it is fast enough. Average delta is 0.000000
